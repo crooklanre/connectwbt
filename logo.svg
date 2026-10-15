@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">ConnectWBT mark</title><desc id="desc">Interlocking paths joining people and services.</desc>
+  <rect width="128" height="128" rx="30" fill="#eef1e9"/><circle cx="64" cy="64" r="48" fill="#174f68"/>
+  <path d="M54 42 43 53a16 16 0 0 0 23 23l9-9M74 86l11-11a16 16 0 0 0-23-23l-9 9" fill="none" stroke="#f8f5e9" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="43" cy="53" r="5" fill="#e98452"/><circle cx="85" cy="75" r="5" fill="#c4e47b"/>
+</svg>
